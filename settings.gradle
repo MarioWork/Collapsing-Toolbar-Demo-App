@@ -1,0 +1,2 @@
+rootProject.name = "Collapsing-Toolbar-Demo-App"
+include ':app'
