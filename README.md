@@ -4,7 +4,7 @@ This project was created to learn in depth the [CollapsingToolbarLayout]( https:
 feature and the user experience that it offers.
 
 ## Technologies
-+ Java
++ Java 8
 + Android Studio 
 
 ## Some APP UI Images
